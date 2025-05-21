@@ -5,7 +5,7 @@ import { EventContext } from "@/contexts/EventContext";
 import {BiSearch} from "react-icons/bi";
 
 const EventSearch = () => {
-    const { searchTerm, setSearchTerm} = useContext(EventContext);
+    const { searchTerm, setSearchTerm } = useContext(EventContext);
     return (
       <div
         className="flex items-center gap-[10px] w-full xl:w-[190px]"

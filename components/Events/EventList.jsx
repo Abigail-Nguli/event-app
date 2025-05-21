@@ -2,6 +2,7 @@ import { EventContext } from "@/contexts/EventContext";
 import React, { useContext } from "react";
 
 import SkeletonGrid from "../SkeletonGrid";
+import Event from "./Event";
 
 const EventList = () => {
   const { filteredEvents, isLoading, error } = useContext(EventContext);

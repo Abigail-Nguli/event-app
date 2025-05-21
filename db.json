@@ -7,9 +7,9 @@
       "img_lg": "/assets/upcoming/img/music/1-lg.png",
       "date": "2025-01-15",
       "hour": "20:00",
-      "title": "Rock Legends Live Concert",
-      "location": "Square Garden, New York",
-      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.",
+      "title": "Sol Fest",
+      "location": "Uhuru Gardens, Nairobi",
+      "description": "Sauti Sol's Festival featuring upcoming Kenyan artists. Your favourite artist will also be there!!",
       "seats": [
         {
           "seat": "frontseat",
@@ -28,7 +28,7 @@
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
           "name": "Ellie Black",
-          "job": "Concert Manager",
+          "job": "Managing Director",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",

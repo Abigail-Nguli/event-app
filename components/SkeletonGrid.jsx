@@ -3,7 +3,8 @@ import { Skeleton } from "./ui/skeleton";
 
 const SkeletonGrid = (itemCount) => {
   return (
-    <div className="w-full grid grid-cols-1 xl:grid-cols-4 gap-[30px] mb-32">
+    <div className="w-full grid grid-cols-1 xl:grid-cols-4 gap-[30px] 
+    mb-32">
       {Array.from({ length: itemCount }).map((_, index) => {
         return (
           <div className="flex flex-col space-y-3" key={index}>

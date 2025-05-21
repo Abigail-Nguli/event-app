@@ -17,6 +17,7 @@ const EventProvider = ({ children }) => {
 
   // filtered events based on the applied filters
   const filteredEvents = useMemo(() => {
+    if (appliedFilters === null) return []; // No results until first submission
     return events.filter((event) => {
       // check search term
       const matchesSearch = appliedFilters.searchTerm
