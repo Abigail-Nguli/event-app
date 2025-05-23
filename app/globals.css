@@ -23,9 +23,9 @@
   --font-secondary: "Caveat";
 
    /* background images */
-   --background-hero-bg1: url(/assets/hero/hero-bg1.png);
-   --background-hero-bg2: url(/assets/hero/hero-bg2.png);
-   --background-pattern: url(/assets/pattern_bg.png);
+   --background-hero_1: url("/assets/hero/hero-bg1.png");
+   --background-hero_2: url("/assets/hero/hero-bg2.png");
+   --background-pattern: url("/assets/pattern_bg.png");
   }
 
 body {
@@ -82,4 +82,9 @@ body {
 
 .btn-tertiary {
   @apply bg-tertiary hover:bg-tertiary-hover;
+}
+
+.swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet,
+.swiper-horizontal.swiper-pagination-bullets .swiper-pagination-bullet {
+  @apply bg-accent;
 }

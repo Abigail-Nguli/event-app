@@ -16,7 +16,7 @@ const EventDate = () => {
     setSelectedDate(date);
   };
   return (
-    <div className="flex items-center gap-[10px] w-full xl:w-[190px] select-none">
+    <div className="flex items-center gap-[10px] w-full xl:w-[190px]">
       <div className="text-lg text-accent">
         <BiCalendar />
       </div>

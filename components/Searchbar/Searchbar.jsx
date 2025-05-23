@@ -35,8 +35,9 @@ const Searchbar = () => {
       {/* submit btn */}
       <button
         onClick={handleSubmit}
-        className="w-full xl:w-[45px] rounder-[40px]
-      xl:rounded-full bg-accent hover:bg-accent-hover transition-all flex items-center justify-center"
+        className="w-full xl:w-[45px] h-[40px] rounded-[40px] xl:rounded-full 
+        bg-accent hover:bg-accent-hover transition-all flex items-center 
+        justify-center"
       >
         <BiRightArrowAlt className="text-3l" />
       </button>
