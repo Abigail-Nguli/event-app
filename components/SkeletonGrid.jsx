@@ -1,7 +1,7 @@
 "use client";
 import { Skeleton } from "./ui/skeleton";
 
-const SkeletonGrid = (itemCount) => {
+const SkeletonGrid = ({ itemCount }) => {
   return (
     <div className="w-full grid grid-cols-1 xl:grid-cols-4 gap-[30px] 
     mb-32">

@@ -17,12 +17,33 @@ const Event = ({event}) => {
           className="rounded-2xl
       object-cover"
         />
-        <diiv className="absolute -bottom-[24px] left-4 bg-accent w-[110px] h-[48px] 
-        text-[13px] uppercase font-medium rounded-full flex items-center justify-center">
+        <div
+          className="absolute -bottom-[24px] left-4 bg-accent w-[110px] h-[48px] 
+        text-[13px] uppercase font-medium rounded-full flex items-center justify-center"
+        >
           {event.type}
-        </diiv>
-      </div> 
-      {event.title}
+        </div>
+      </div>
+      <div className="pl-4 flex flex-col justify-between h-[50%]">
+        <div className="">
+          <div className="flex items-center gap-3 text-accent mb-2">
+            <div className="flex items-center gap-1">
+              <BiCalendar />
+              {/* Hardcoded Date - change it later */}
+              <div className="text-[15px]">15.06.25</div>
+            </div>
+            <div className="flex items-center gap-1">
+              <BiTime />
+              <div className="text-[15px]">{event.hour}</div>
+            </div>
+          </div>
+          <h4 className="h4">{event.title}</h4>
+        </div>
+        <div className="flex items-center gap-2 pb-2">
+          <BiMap className="text-xl text-accent"/>
+          <p className="text-sm font-light text-white/70">{event.location}</p>
+        </div>
+      </div>
     </div>
   );
 };
