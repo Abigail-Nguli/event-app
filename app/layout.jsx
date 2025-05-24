@@ -1,17 +1,21 @@
 import { Poppins, Caveat } from "next/font/google";
 import "./globals.css";
 
+// contexts
 import EventProvider from "@/contexts/EventContext";
-import Header from "@/components/Header";
+import TicketProvider from "@/contexts/TicketContext";
 
-const poppins = Poppins ({
-  weight: ["100", "200", "300", 
-  "400", "500", "600", "700", "800"],
+// components
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
+
+const poppins = Poppins({
+  weight: ["100", "200", "300", "400", "500", "600", "700", "800"],
   subsets: ["latin"],
   variable: "--font-poppins",
 });
 
-const caveat = Caveat ({
+const caveat = Caveat({
   weight: ["400", "500", "600", "700"],
   subsets: ["latin"],
   variable: "--font-caveat",
@@ -25,12 +29,17 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <EventProvider>
-      <html lang="en">
-        <body className={`${poppins.variable} ${caveat.variable} antialiased`}>
-          <Header />
-          {children}
-        </body>
-      </html>
+      <TicketProvider>
+        <html lang="en">
+          <body
+            className={`${poppins.variable} ${caveat.variable} antialiased`}
+          >
+            <Header />
+            {children}
+            <Footer />
+          </body>
+        </html>
+      </TicketProvider>
     </EventProvider>
   );
 }

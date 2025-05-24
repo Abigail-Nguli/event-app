@@ -9,7 +9,7 @@ const Hero = () => {
   return (
     <section className="h-screen xl:h-[800px] mb-16 relative">
       <div
-        className="container mx-auto flex flex-col justify-center items-center
+        className="container mx-auto h-full flex flex-col justify-center items-center
       pt-12 xl:pt-0"
       >
         <div
@@ -18,8 +18,8 @@ const Hero = () => {
         >
           <div className="pretitle">Uncover New Moments</div>
           <h1 className="h1">
-            Discover Events & <br />
-            Experiences
+            Discover Events <br />
+            & Experiences
           </h1>
           <p
             className="text-sm xl:text-lg font-light text-white/80 mb-4 

@@ -97,26 +97,34 @@ const UpcomingEvents = () => {
             </TabsTrigger>
           </TabsList>
         </Tabs>
-        <Link href={""} className="uppercase border-b-2 border-accent text-sm
-        font-semi-bold text-accent">See all events</Link>
+        <Link
+          href={""}
+          className="uppercase border-b-2 border-accent text-sm
+        font-semi-bold text-accent"
+        >
+          See all events
+        </Link>
       </div>
       {/* slider */}
       {filteredEvents.length > 0 ? (
         <Swiper
           slidesPerView={1}
           spaceBetween={30}
-          pagination={{ dynamicBullets: true, clickable: true }}
+          pagination={{
+            dynamicBullets: true,
+            clickable: true
+          }}
           breakpoints={{
             640: { slidesPerView: 2 },
             1024: { slidesPerView: 3 },
             1310: { slidesPerView: 4 },
           }}
-          modules={{ Pagination }}
+          modules={[ Pagination ]}
           className="w-full h-[500px]"
         >
           {filteredEvents.map((event, index) => (
             <SwiperSlide key={index} className="select-none">
-              <Link href="">
+              <Link href={`/event/${event.id}`}>
                 <Event event={event} />
               </Link>
             </SwiperSlide>

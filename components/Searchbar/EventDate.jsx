@@ -11,7 +11,7 @@ import { useContext } from "react";
 import { EventContext } from "@/contexts/EventContext";
 
 const EventDate = () => {
-  const { events, selectedDate, setSelectedDate } = useContext(EventContext);
+  const { selectedDate, setSelectedDate } = useContext(EventContext);
   const handleDateChange = (date) => {
     setSelectedDate(date);
   };
@@ -39,7 +39,7 @@ const EventDate = () => {
             initialFocus
           />
         </PopoverContent>
-        <div className="text-[26px]">
+        <div className="text-[24px]">
             <BiChevronDown />
         </div>
       </Popover>

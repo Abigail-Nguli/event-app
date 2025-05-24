@@ -35,7 +35,7 @@ const Searchbar = () => {
       {/* submit btn */}
       <button
         onClick={handleSubmit}
-        className="w-full xl:w-[45px] h-[40px] rounded-[40px] xl:rounded-full 
+        className="w-full xl:w-[54px] h-[54px] rounded-[40px] xl:rounded-full 
         bg-accent hover:bg-accent-hover transition-all flex items-center 
         justify-center"
       >

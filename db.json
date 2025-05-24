@@ -5,29 +5,29 @@
       "type": "music",
       "img_sm": "/assets/upcoming/img/music/1-sm.png",
       "img_lg": "/assets/upcoming/img/music/1-lg.png",
-      "date": "2025-09-15",
+      "date": "2025-11-15",
       "hour": "20:00",
       "title": "Sol Fest",
       "location": "Uhuru Gardens, Nairobi",
-      "description": "Sauti Sol's Festival featuring upcoming Kenyan artists. Your favourite artist will also be there!!",
+      "description": "Experience the ultimate celebration of Kenyan music at the Sauti Sol Festival! Join us for an electrifying showcase of talent, where legendary headliners Sauti Sol light up the stage alongside Kenya’s most exciting upcoming artists. This is your chance to discover fresh sounds, vibe to Afro-pop anthems, and witness the next generation of stars before they blow up! But that’s not all—your favorite artist will be there too! With surprise performances and special collaborations, this festival promises unforgettable moments you won’t find anywhere else. From soulful harmonies to high-energy beats, Sauti Sol’s Festival is more than just a concert—it’s a movement. Don’t miss out on the biggest musical event of the year!",
       "seats": [
         {
           "seat": "frontseat",
-          "price": 100
+          "price": 2000
         },
         {
           "seat": "backseat",
-          "price": 60
+          "price": 1200
         },
         {
           "seat": "vip",
-          "price": 150
+          "price": 3500
         }
       ],
       "organizers": [
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
-          "name": "Ellie Black",
+          "name": "Sol Generation",
           "job": "Managing Director",
           "social": [
             {
@@ -46,8 +46,8 @@
         },
         {
           "img_avatar": "/assets/organizers/organizer-avt-2.png",
-          "name": "Amelie Laurent",
-          "job": "Concert Manager",
+          "name": "Svara",
+          "job": "Singer $ Vocalist",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -65,93 +65,8 @@
         },
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
-          "name": "Amelie Laurent",
-          "job": "Concert Manager",
-          "social": [
-            {
-              "icon": "/assets/organizers/social/x.svg",
-              "path": ""
-            },
-            {
-              "icon": "/assets/organizers/social/instagram.svg",
-              "path": ""
-            },
-            {
-              "icon": "/assets/organizers/social/pinterest.svg",
-              "path": ""
-            }
-          ]
-        }
-      ],
-      "recommended": false
-    },
-    {
-      "id": "2",
-      "type": "music",
-      "img_sm": "/assets/upcoming/img/music/2-sm.png",
-      "img_lg": "/assets/upcoming/img/music/2-lg.png",
-      "date": "2025-02-05",
-      "hour": "19:00",
-      "title": "Jazz Night Live",
-      "location": "Blue Note, New York",
-      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.",
-      "seats": [
-        {
-          "seat": "frontseat",
-          "price": 100
-        },
-        {
-          "seat": "backseat",
-          "price": 60
-        },
-        {
-          "seat": "vip",
-          "price": 150
-        }
-      ],
-      "organizers": [
-        {
-          "img_avatar": "/assets/organizers/organizer-avt-1.png",
-          "name": "Ellie Black",
-          "job": "Concert Manager",
-          "social": [
-            {
-              "icon": "/assets/organizers/social/x.svg",
-              "path": ""
-            },
-            {
-              "icon": "/assets/organizers/social/instagram.svg",
-              "path": ""
-            },
-            {
-              "icon": "/assets/organizers/social/pinterest.svg",
-              "path": ""
-            }
-          ]
-        },
-        {
-          "img_avatar": "/assets/organizers/organizer-avt-2.png",
-          "name": "Amelie Laurent",
-          "job": "Concert Manager",
-          "social": [
-            {
-              "icon": "/assets/organizers/social/x.svg",
-              "path": ""
-            },
-            {
-              "icon": "/assets/organizers/social/instagram.svg",
-              "path": ""
-            },
-            {
-              "icon": "/assets/organizers/social/pinterest.svg",
-              "path": ""
-            }
-          ]
-        },
-        {
-          "img_avatar": "/assets/organizers/organizer-avt-1.png",
-          "name": "Amelie Laurent",
-          "job": "Concert Manager",
+          "name": "Wills Chimano",
+          "job": "Songwriter",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -171,34 +86,34 @@
       "recommended": true
     },
     {
-      "id": "3",
-      "type": "art",
-      "img_sm": "/assets/upcoming/img/art/3-sm.png",
-      "img_lg": "/assets/upcoming/img/art/3-lg.png",
-      "date": "2025-02-20",
-      "hour": "10:00",
-      "title": "Street Art Festival",
-      "location": "Art District, Berlin",
-      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.",
+      "id": "2",
+      "type": "music",
+      "img_sm": "/assets/upcoming/img/music/2-sm.png",
+      "img_lg": "/assets/upcoming/img/music/2-lg.png",
+      "date": "2025-02-14",
+      "hour": "19:00",
+      "title": "Love Notes",
+      "location": "Alchemist, Parklands",
+      "description": "Immerse yourself in an unforgettable evening of love and soulful connection as three of Kenya's most captivating vocalists - Njerae, Mutoriah, and Kethan - weave their musical magic. Let the velvet tones of their voices transport you to a realm where every lyric carries the weight of passion and every melody pulses with raw emotion. This is more than a concert; it's a shared journey through the deepest landscapes of the heart, where soulful harmonies meet timeless storytelling in an intimate atmosphere crafted for true music lovers. Prepare to lose yourself in the moment as these extraordinary artists create a living tapestry of sound that will linger in your memory long after the final note fades.",
       "seats": [
         {
           "seat": "frontseat",
-          "price": 100
+          "price": 2500
         },
         {
           "seat": "backseat",
-          "price": 60
+          "price": 2000
         },
         {
           "seat": "vip",
-          "price": 150
+          "price": 3200
         }
       ],
       "organizers": [
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
-          "name": "Ellie Black",
-          "job": "Concert Manager",
+          "name": "Alchemist",
+          "job": "Bar & Restaurant",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -216,8 +131,8 @@
         },
         {
           "img_avatar": "/assets/organizers/organizer-avt-2.png",
-          "name": "Amelie Laurent",
-          "job": "Concert Manager",
+          "name": "Njerae",
+          "job": "Singer & Songwriter",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -235,8 +150,55 @@
         },
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
-          "name": "Ellie Black",
-          "job": "Concert Manager",
+          "name": "Mutoriah",
+          "job": "Artist & Producer",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        }
+      ],
+      "recommended": false
+    },
+    {
+      "id": "3",
+      "type": "art",
+      "img_sm": "/assets/upcoming/img/art/2-sm.png",
+      "img_lg": "/assets/upcoming/img/art/2-lg.png",
+      "date": "2025-02-20",
+      "hour": "10:00",
+      "title": "Isukuti Fest",
+      "location": "Red Room, Adilife Plaza",
+      "description": "Experience the vibrant heartbeat of Kenya’s Luhya culture at this spectacular celebration of music, dance, food, and age-old traditions. From the electrifying Isukuti drums to the rhythmic Lirango dances, witness performances that have been passed down through generations.Savor the flavors of authentic Luhya cuisine, including Busaa, Ingokho, and Mukimo, while listening to captivating storytelling under the stars. Don’t miss the thrilling bullfighting (Khupula) and wrestling (Eshitutu) competitions—a true display of strength and bravery!",
+      "seats": [
+        {
+          "seat": "frontseat",
+          "price": 2500
+        },
+        {
+          "seat": "backseat",
+          "price": 1500
+        },
+        {
+          "seat": "vip",
+          "price": 4000
+        }
+      ],
+      "organizers": [
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "NRG Radio",
+          "job": "Radio Station",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -254,8 +216,46 @@
         },
         {
           "img_avatar": "/assets/organizers/organizer-avt-2.png",
-          "name": "Amelie Laurent",
-          "job": "Concert Manager",
+          "name": "Hustle Sasa",
+          "job": "Software Company",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-1.png",
+          "name": "Mad Fun",
+          "job": "Entertainment Industry",
+          "social": [
+            {
+              "icon": "/assets/organizers/social/x.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/instagram.svg",
+              "path": ""
+            },
+            {
+              "icon": "/assets/organizers/social/pinterest.svg",
+              "path": ""
+            }
+          ]
+        },
+        {
+          "img_avatar": "/assets/organizers/organizer-avt-2.png",
+          "name": "Millie Anekayah",
+          "job": "Radio Presenter",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -277,13 +277,13 @@
     {
       "id": "4",
       "type": "art",
-      "img_sm": "/assets/upcoming/img/art/2-sm.png",
-      "img_lg": "/assets/upcoming/img/art/2-lg.png",
+      "img_sm": "/assets/upcoming/img/art/3-sm.png",
+      "img_lg": "/assets/upcoming/img/art/3-lg.png",
       "date": "2025-07-09",
       "hour": "11:00",
-      "title": "Impressionist Art Exhibition",
-      "location": "Louvre Museum, Paris",
-      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.paintings.",
+      "title": "Color Fest",
+      "location": "Greulla Farmhouse, Tigoni Limuru",
+      "description": "Join us for an explosion of joy and color at the Amazing Color Festival—a dazzling event where music, dance, and pure happiness collide! 🌈 Dive into a world of vibrant hues as clouds of powdered color fill the air, turning every moment into a living rainbow. 🎶 Move to electrifying beats from top DJs and live performers, keeping the energy high all day long. 💃 Dance with friends and strangers alike, because here, everyone becomes family under the colorful sky. 📸 Capture unforgettable memories as you transform into a walking masterpiece of blended shades. Whether you're a free spirit, a dance lover, or just ready for pure fun, this is your chance to let loose, laugh out loud, and paint the town in every color imaginable! Don’t just watch life in color—live it! 🎨✨ #ColorFestival #VibesOnVibes #UnforgettableMemories",
       "seats": [
         {
           "seat": "frontseat",
@@ -301,8 +301,8 @@
       "organizers": [
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
-          "name": "Ellie Black",
-          "job": "Concert Manager",
+          "name": "EABL",
+          "job": "Liqour Company",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -320,8 +320,8 @@
         },
         {
           "img_avatar": "/assets/organizers/organizer-avt-2.png",
-          "name": "Amelie Laurent",
-          "job": "Concert Manager",
+          "name": "Tickets Yetu",
+          "job": "Promoters",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -339,8 +339,8 @@
         },
         {
           "img_avatar": "/assets/organizers/organizer-avt-2.png",
-          "name": "Amelie Laurent",
-          "job": "Concert Manager",
+          "name": "Mancave",
+          "job": "Entertainment Industry",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -366,9 +366,9 @@
       "img_lg": "/assets/upcoming/img/art/1-lg.png",
       "date": "2025-11-10",
       "hour": "18:00",
-      "title": "Art Nouveau Exhibition",
-      "location": "Art Museum, New York",
-      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.",
+      "title": "Kutiit Culture",
+      "location": "Canivore Grounds, Nairobi",
+      "description": "Immerse yourself in the vibrant traditions of Kenya's iconic Maasai community at this unforgettable cultural celebration! Experience the powerful Adumu warrior jumping dance to rhythmic chants, listen to elders share ancient stories by firelight, and enjoy melodic Maasai music featuring traditional enkarewa leg bells and olmurunya horns. Browse exquisite handmade beadwork and crafts, sample authentic cuisine like nyama choma and mursik fermented milk, and even try your hand at spear throwing under expert guidance. This immersive festival brings to life the proud heritage of one of Africa's most celebrated cultures through music, dance, artisan demonstrations and interactive experiences that will leave you with a deeper appreciation of Maasai traditions.",
       "seats": [
         {
           "seat": "frontseat",
@@ -386,8 +386,8 @@
       "organizers": [
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
-          "name": "Ellie Black",
-          "job": "Concert Manager",
+          "name": "Hustle Sasa",
+          "job": "Promoters",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -405,8 +405,8 @@
         },
         {
           "img_avatar": "/assets/organizers/organizer-avt-2.png",
-          "name": "Amelie Laurent",
-          "job": "Concert Manager",
+          "name": "Cocacola",
+          "job": "Beverage Company",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -424,8 +424,8 @@
         },
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
-          "name": "Ellie Black",
-          "job": "Concert Manager",
+          "name": "Indomie",
+          "job": "Food Company",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -451,28 +451,28 @@
       "img_lg": "/assets/upcoming/img/food/1-lg.png",
       "date": "2025-08-20",
       "hour": "14:00",
-      "title": "Gourmet Food Festival",
-      "location": "Central Park, New York",
-      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.",
+      "title": "Choma Fest",
+      "location": "Kastemil Gardens, Thika Road",
+      "description": "We're excited to announce that we'll be vending at this year's Choma Fest! Come find us in the vibrant marketplace where we'll be serving up 'our famous smoky barbecue ribs & ice-cold craft brews'. Don't miss your chance to 'try our award-winning recipes & shop exclusive festival specials' while enjoying Nairobi's ultimate meat-lovers experience. We'll be grilling up something special just for this event - look for the identifying feature - 'red-and-white striped tent/giant smoking grill' near - 'Kastemil'. #ChomaFest2024 #SeeYouThere",
       "seats": [
         {
           "seat": "frontseat",
-          "price": 100
+          "price": 1500
         },
         {
           "seat": "backseat",
-          "price": 60
+          "price": 700
         },
         {
           "seat": "vip",
-          "price": 150
+          "price": 2800
         }
       ],
       "organizers": [
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
-          "name": "Ellie Black",
-          "job": "Concert Manager",
+          "name": "Cloud Nine",
+          "job": "Bar & Restaurant",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -490,8 +490,8 @@
         },
         {
           "img_avatar": "/assets/organizers/organizer-avt-2.png",
-          "name": "Amelie Laurent",
-          "job": "Concert Manager",
+          "name": "Mad Fun",
+          "job": "Entertainment Industry",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -509,8 +509,8 @@
         },
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
-          "name": "Amelie Laurent",
-          "job": "Concert Manager",
+          "name": "Chukys",
+          "job": "Bar & Restaurant",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -534,30 +534,30 @@
       "type": "food",
       "img_sm": "/assets/upcoming/img/food/2-sm.png",
       "img_lg": "/assets/upcoming/img/food/2-lg.png",
-      "date": "2026-02-10",
+      "date": "2025-02-10",
       "hour": "12:00",
-      "title": "Vegan Delights Cooking Class",
-      "location": "Culinary School, Los Angeles",
-      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.",
+      "title": "Nairobi Street Food Festival",
+      "location": "Jamhuri Show Ground, Main Arena",
+      "description": "Karibu to the Nairobi Street Food Fest – your ultimate passport to Kenya's most legendary street food flavors! Get ready to indulge in all your favorite roadside treats as we bring the vibrant tastes of Nairobi's bustling streets to one sizzling location. Watch as our expert chefs prepare smocha with that perfect char, pasua cracked open fresh before your eyes, and chips mwitu fried to golden perfection. Don't miss our crispy viazi karai with signature dipping sauces or the flakiest samosas this side of River Road. This is more than just food – it's an experience of Nairobi's soul, served hot and with full uthamaki energy! Tukutane hapa for the real taste of Kenyan street food magic. #NairobiStreetFoodFest #TasteTheStreet",
       "seats": [
         {
           "seat": "frontseat",
-          "price": 100
+          "price": 1200
         },
         {
           "seat": "backseat",
-          "price": 60
+          "price": 800
         },
         {
           "seat": "vip",
-          "price": 150
+          "price": 1800
         }
       ],
       "organizers": [
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
-          "name": "Ellie Black",
-          "job": "Concert Manager",
+          "name": "Nairobi Street Kitechen",
+          "job": "Bar & Restaurant",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -575,8 +575,8 @@
         },
         {
           "img_avatar": "/assets/organizers/organizer-avt-2.png",
-          "name": "Amelie Laurent",
-          "job": "Concert Manager",
+          "name": "Kenya Originals",
+          "job": "Alcohol Company",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -602,28 +602,28 @@
       "img_lg": "/assets/upcoming/img/sport/2-lg.png",
       "date": "2026-02-15",
       "hour": "09:30",
-      "title": "International Cricket Tournament",
-      "location": "Cricket Ground, London",
-      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.",
+      "title": "Cheza Dimba Nationals",
+      "location": "Dandora Stadium, Dandora",
+      "description": "The Football Kenya Federation National Championship – Proudly Supported by SportPesa! Experience the passion of Kenya's rising football stars as they compete for glory in our nation's premier football championship. While we're grateful for SportPesa's support in growing Kenyan football, we remind all fans that gaming should always be enjoyed responsibly",
       "seats": [
         {
           "seat": "frontseat",
-          "price": 100
+          "price": 400
         },
         {
           "seat": "backseat",
-          "price": 60
+          "price": 350
         },
         {
           "seat": "vip",
-          "price": 150
+          "price": 650
         }
       ],
       "organizers": [
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
-          "name": "Ellie Black",
-          "job": "Concert Manager",
+          "name": "SportPesa",
+          "job": "Betting Company",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -641,8 +641,8 @@
         },
         {
           "img_avatar": "/assets/organizers/organizer-avt-2.png",
-          "name": "Amelie Laurent",
-          "job": "Concert Manager",
+          "name": "Nairobi County",
+          "job": "County Government",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -666,30 +666,30 @@
       "type": "sport",
       "img_sm": "/assets/upcoming/img/sport/1-sm.png",
       "img_lg": "/assets/upcoming/img/sport/1-lg.png",
-      "date": "2026-01-25",
+      "date": "2025-07-25",
       "hour": "16:00",
-      "title": "Basketball Championship Final",
-      "location": "Staples Center, Los Angeles",
-      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.",
+      "title": "Nairobi City Marathon",
+      "location": "Nyayo Stadium, Nairobi",
+      "description": "Welcome to the Nairobi City Marathon at Nyayo National Stadium—Kenya's premier running event where athletes of all levels come together for an unforgettable race day experience! Starting and finishing at the iconic Nyayo Stadium with its world-class facilities, this professionally organized marathon takes you through Nairobi’s vibrant streets, offering breathtaking city views as you push toward the finish line. Whether you're an elite runner chasing records or a first-timer embracing the challenge, join thousands of participants in celebrating fitness, determination, and the spirit of our capital. Arrive early, stay hydrated, and get ready to enjoy every kilometer—see you at the starting line! #NairobiCityMarathon #RunTheCapital",
       "seats": [
         {
           "seat": "frontseat",
-          "price": 100
+          "price": 1500
         },
         {
           "seat": "backseat",
-          "price": 60
+          "price": 1000
         },
         {
           "seat": "vip",
-          "price": 150
+          "price": 2000
         }
       ],
       "organizers": [
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
-          "name": "Ellie Black",
-          "job": "Concert Manager",
+          "name": "Athletes Kenya",
+          "job": "Kenyan Athletes",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -707,8 +707,8 @@
         },
         {
           "img_avatar": "/assets/organizers/organizer-avt-2.png",
-          "name": "Amelie Laurent",
-          "job": "Concert Manager",
+          "name": "Standard Charter",
+          "job": "Bank",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -726,8 +726,8 @@
         },
         {
           "img_avatar": "/assets/organizers/organizer-avt-1.png",
-          "name": "Ellie Black",
-          "job": "Concert Manager",
+          "name": "Nairobi County",
+          "job": "County Government",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",
@@ -745,8 +745,8 @@
         },
         {
           "img_avatar": "/assets/organizers/organizer-avt-2.png",
-          "name": "Amelie Laurent",
-          "job": "Concert Manager",
+          "name": "Fith Kipyegon",
+          "job": "Athlete",
           "social": [
             {
               "icon": "/assets/organizers/social/x.svg",

@@ -33,7 +33,7 @@ body {
 }
 
 .container {
-  @apply text-center p-[15px];
+  @apply  p-[15px];
 }
 
 .h1,
@@ -85,6 +85,6 @@ body {
 }
 
 .swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet,
-.swiper-horizontal.swiper-pagination-bullets .swiper-pagination-bullet {
+.swiper-pagination-horizontal.swiper-pagination-bullets .swiper-pagination-bullet {
   @apply bg-accent;
 }
