@@ -1,10 +1,10 @@
 #!/bin/bash
-echo "Checking for db.json..."
-if [ -f "db.json" ]; then
-  echo "db.json found!"
+echo "Checking for data.json..."
+if [ -f "data.json" ]; then
+  echo "data.json found!"
   exit 0
 else
-  echo "ERROR: db.json missing!"
+  echo "ERROR: data.json missing!"
   ls -la
   exit 1
 fi
