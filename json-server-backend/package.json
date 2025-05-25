@@ -2,8 +2,8 @@
   "name": "json-server-backend",
   "version": "1.0.0",
   "scripts": {
-    "start": "node server.js",
-    "prestart": "node -e \"const fs = require('fs'); if (!fs.existsSync('db.json')) { console.error('ERROR: db.json missing!'); process.exit(1); }\""
+    "start": "json-server --host 0.0.0.0 --port $PORT /opt/render/project/src/db.json",
+    "prestart": "ls -la /opt/render/project/src/"
   },
   "dependencies": {
     "json-server": "^1.0.0"
