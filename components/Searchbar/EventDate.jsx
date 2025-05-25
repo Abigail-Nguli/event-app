@@ -39,9 +39,9 @@ const EventDate = () => {
             initialFocus
           />
         </PopoverContent>
-        <div className="text-[24px]">
+        {/* <div className="text-[24px]">
             <BiChevronDown />
-        </div>
+        </div> */}
       </Popover>
     </div>
   );
