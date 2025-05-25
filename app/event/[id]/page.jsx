@@ -12,7 +12,7 @@ const EventDetails = async ({ params }) => {
 
   // fetch event based on the id
   const fetchEvent = async (id) => {
-    const res = await fetch(`http://localhost:4000/events/${id}`);
+    const res = await fetch(`https://event-app-ive3.onrender.com/${id}`);
     if (!res.ok) throw new Error("Failed to fetch event");
     return res.json();
   };
