@@ -25,7 +25,7 @@ const Hero = () => {
             className="text-sm xl:text-lg font-light text-white/80 mb-4 
           xl:mb-12 max-w-[480px] xl:max-w-none mx-auto"
           >
-            Join a vibrant community where you can explore global happenings and
+            Join a vibrant community where you can explore local & global happenings and
             more memorable moments with friends and family.
           </p>
         </div>
