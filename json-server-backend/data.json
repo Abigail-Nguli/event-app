@@ -173,8 +173,8 @@
     {
       "id": "3",
       "type": "art",
-      "img_sm": "/assets/upcoming/img/art/2-sm.png",
-      "img_lg": "/assets/upcoming/img/art/2-lg.png",
+      "img_sm": "/assets/upcoming/img/art/3-sm.png",
+      "img_lg": "/assets/upcoming/img/art/3-lg.png",
       "date": "2025-02-20",
       "hour": "10:00",
       "title": "Isukuti Fest",
@@ -277,8 +277,8 @@
     {
       "id": "4",
       "type": "art",
-      "img_sm": "/assets/upcoming/img/art/3-sm.png",
-      "img_lg": "/assets/upcoming/img/art/3-lg.png",
+      "img_sm": "/assets/upcoming/img/art/2-sm.png",
+      "img_lg": "/assets/upcoming/img/art/2-lg.png",
       "date": "2025-07-09",
       "hour": "11:00",
       "title": "Color Fest",
