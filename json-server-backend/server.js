@@ -1,11 +1,11 @@
 const path = require("path");
 const jsonServer = require("json-server");
 const server = jsonServer.create();
-const router = jsonServer.router(path.join(__dirname, "db.json"));
+const router = jsonServer.router(path.join(__dirname, "data.json"));
 const middlewares = jsonServer.defaults();
 
 // Debugging - log the absolute path
-console.log("Looking for db.json at:", path.join(__dirname, "db.json"));
+console.log("Looking for data.json at:", path.join(__dirname, "data.json"));
 
 server.use(middlewares);
 server.use(router);
