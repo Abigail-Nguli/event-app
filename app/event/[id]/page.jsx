@@ -71,8 +71,7 @@ const EventDetails = async ({ params }) => {
                       <FaRegCircleCheck />
                     </span>
                     <p className="text-grey">
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                      Nulla quia animi commodi reprehenderit quibusdam molestias
+                      National Id/ Students Id
                     </p>
                   </li>
                   <li className="flex gap-3 items-center">
@@ -80,8 +79,7 @@ const EventDetails = async ({ params }) => {
                       <FaRegCircleCheck />
                     </span>
                     <p className="text-grey">
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                      Nulla quia animi commodi reprehenderit quibusdam molestias
+                      Dress Code - Red/ Black 
                     </p>
                   </li>
                   <li className="flex gap-3 items-center">
@@ -89,8 +87,7 @@ const EventDetails = async ({ params }) => {
                       <FaRegCircleCheck />
                     </span>
                     <p className="text-grey">
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                      Nulla quia animi commodi reprehenderit quibusdam molestias
+                      Vibes on vibes
                     </p>
                   </li>
                   <li className="flex gap-3 items-center">
@@ -98,8 +95,7 @@ const EventDetails = async ({ params }) => {
                       <FaRegCircleCheck />
                     </span>
                     <p className="text-grey">
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                      Nulla quia animi commodi reprehenderit quibusdam molestias
+                      Tell a friend to tell a friend
                     </p>
                   </li>
                 </ul>
