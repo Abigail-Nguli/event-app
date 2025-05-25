@@ -66,7 +66,9 @@ const EventProvider = ({ children }) => {
       // start loader
       setIsLoading(true);
       try {
-        const res = await fetch("https://event-app-ive3.onrender.com/events");
+        const res = await fetch(
+          "https://event-details-data.onrender.com/events"
+        );
         if (!res.ok) throw new Error("Failed to fetch events");
         const data = await res.json();
         setEvents(data);
